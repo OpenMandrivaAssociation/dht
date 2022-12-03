@@ -29,7 +29,7 @@ All functions return -1 in case of failure, in which case errno is set, or
 a positive value in case of success.
 
 %prep
-%autosetup %{name}-%{name}-%{version} -p1
+%autosetup -n %{name}-%{name}-%{version} -p1
 
 %build
 %cmake \
