@@ -1,3 +1,5 @@
+%define _empty_manifest_terminate_build 0
+
 Name:           dht
 Version:        0.27
 Release:        1
