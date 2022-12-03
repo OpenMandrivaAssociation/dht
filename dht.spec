@@ -45,3 +45,7 @@ a positive value in case of success.
 
 
 %files
+%doc %{_datadir}/doc/DHT/
+%{_includedir}/dht/dht.h
+%{_libdir}/cmake/DHT/
+%{_libdir}/libdht.a
