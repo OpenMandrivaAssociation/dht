@@ -1,4 +1,4 @@
-Name:           libshumate
+Name:           dht
 Version:        0.27
 Release:        1
 Summary:        BitTorrent DHT library
