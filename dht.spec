@@ -2,7 +2,7 @@
 
 Name:           dht
 Version:        0.27
-Release:        1
+Release:        2
 Summary:        BitTorrent DHT library
 License:        MIT
 URL:            https://www.irif.fr/~jch/software/bittorrent/
